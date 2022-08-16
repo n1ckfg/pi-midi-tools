@@ -6,4 +6,5 @@ sudo aconnect "$SOURCE_DEVICE:0" "$DEST_DEVICE:0"
 # Pianocade
 # OP-1
 # E-MU XMidi1X1
+# UA-25EX
 
